@@ -1,3 +1,8 @@
+sprint:
+  application:
+    name: Default
+
+
 eureka:
   instance:
     prefer-ip-address: true
